@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.container-fluid {
+    margin-bottom: 25px;
+}
+#collapseOne1 .card-body img {
+    float: left;
+    margin-bottom: 19px;
+    margin-right: 19px;
+}
+#collapseTwo1 .card-body img {
+    margin-bottom: 19px;
+    float: right;
+    margin-right: 19px;
+}
+#collapseThree1 .card-body img {
+    float: left;
+    margin-bottom: 19px;
+    margin-right: 19px;
+}
+.container-fluid h5 strong {
+    margin-top: 28px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    padding-top: 43px;
+}
+.container-fluid h5 strong {
+    margin-top: 20%;
+}
+.carousel-inner .carousel-item.active .d-block.mx-auto {
+}
+.container-fluid .container-fluid h5 {
+    margin-top: 10px;
+    margin-bottom: -9px;
+}
